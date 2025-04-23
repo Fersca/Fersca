@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fersca
 - 👀 I’m interested in computers, programming, AI, math, physics, electronics, languages, science, soccer, music, etc.
-- 🌱 I’m currently learning italian, Java 19, security, machine learning, etc.
+- 🌱 I’m currently learning agentic programmimg, typescript, deno, italian, Java, assembler, security, machine learning, etc.
 - 💞️ I’m looking to collaborate on whatever interesting project.
 - 📫 How to reach me: through email or linkedin.
 
